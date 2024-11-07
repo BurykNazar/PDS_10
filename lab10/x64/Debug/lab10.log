@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_10\lab10\Source.cpp(56): warning C4715: 'read': not all control paths return a value
+  lab10.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_10\lab10\x64\Debug\lab10.exe
